@@ -6,7 +6,7 @@ Everyone can propose changes and report games. You do not need to submit a pull 
 
 Search existing issues, then use the balance proposal, clarification or playtest template. Keep one problem per proposal. Identify the exact official source and version; link to official material instead of copying large passages.
 
-Describe the affected format, the problem, available evidence and the outcome you want. A proposed solution is welcome but not required. Small samples and personal experience are useful when labelled honestly.
+Proposals should address Matched Play, the repository's focus. Describe the applicable Matched Play restrictions, the problem, available evidence and the outcome you want. A proposed solution is welcome but not required. Small samples and personal experience are useful when labelled honestly.
 
 Maintainers record a triage outcome: needs evidence, accepted for testing, deferred, duplicate or out of scope. Rejection should include a reason.
 

@@ -4,6 +4,7 @@
 
 ### Project setup
 
+- Added a fictional approved-patch example showing Matched Play scope and unanimous three-member council approval.
 - Added the provisional maintainer governance and contribution process.
 - Added balance proposal, clarification and playtest issue templates.
 - Added a pull request template and release checklist.

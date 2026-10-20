@@ -14,7 +14,7 @@ A point-cost or gameplay-wording change is never merely an editorial PATCH.
 ## Before the first release
 
 - Appoint the council and ratify governance.
-- Agree the official baseline, supported format, scenario assumptions, allies and blessings.
+- Agree the official baseline, Matched Play restrictions, scenario assumptions, allies and blessings.
 - Evaluate the evidence for each proposed change; defer untested changes.
 - Agree a release calendar. The starting proposal is two balance releases per year.
 

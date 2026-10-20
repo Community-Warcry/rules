@@ -12,7 +12,7 @@ Playtesters contribute evidence. Organisers decide whether their events adopt a 
 
 ## Membership
 
-Aim for five maintainers covering event organisation, competitive and casual play, several factions, precise rules writing and evidence analysis. Avoid a majority from one club.
+The council consists of three maintainers covering event organisation, competitive and casual play, several factions, precise rules writing and evidence analysis. Avoid a majority from one club.
 
 Use a public nomination issue. Candidates state experience, availability and relevant interests. Founding organisers and contributors discuss nominations; the founder records the initial appointments and reasons in that issue and updates MAINTAINERS.md. Do not represent this founding appointment as a community election.
 
@@ -24,7 +24,7 @@ Anyone may propose a change. Likes and polls identify interest, not proof of bal
 
 During setup, repository administrators may merge organisational scaffolding and corrections. They may not describe a patch as council-approved until an appointed council has ratified the process.
 
-For a five-member council, a substantive balance decision requires four affirmative votes recorded on the pull request. At least two approving maintainers must be independent of its authors. An author may explain and vote on policy, but their own work still requires independent review. If a different council size is appointed, ratify its quorum and thresholds before approving balance changes.
+For the three-member council, a substantive balance decision requires three affirmative votes recorded on the pull request. At least one approving maintainer must be independent of its authors. An author may explain and vote on policy, but their own work still requires independent review. Any change to council size must include ratified quorum and thresholds before approving balance changes.
 
 Minor editorial corrections need one non-author maintainer approval and must not alter gameplay. A clarification affecting gameplay uses the substantive process.
 
